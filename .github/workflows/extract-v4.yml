@@ -36,4 +36,3 @@ jobs:
             extract_tampermonkey_script_output
             github-action-run.log
       - run: echo finished
-
